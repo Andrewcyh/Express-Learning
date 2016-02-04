@@ -1,0 +1,26 @@
+{
+  "name": "express_learning",
+  "version": "1.0.0",
+  "description": "L1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrewcyh/Express-Learning.git"
+  },
+  "keywords": [
+    "What"
+  ],
+  "author": "Andrewcyh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andrewcyh/Express-Learning/issues"
+  },
+  "homepage": "https://github.com/Andrewcyh/Express-Learning#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express3-handlebars": "^0.5.2"
+  }
+}
